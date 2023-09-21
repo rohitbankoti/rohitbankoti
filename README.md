@@ -31,6 +31,3 @@
   
 </p>
 <br>
-<h2 align="left"> 🌟 Badges :</h2>
-
-[![@k10's Holopin board](https://holopin.me/k10)](https://holopin.io/@k10)
